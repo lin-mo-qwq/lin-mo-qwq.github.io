@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lin-mo-qwq.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-30T13:50:19.134Z</updated>
+    <title>lin_mo&apos;s blog</title>
+    <updated>2020-08-30T13:52:47.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lin-mo-qwq.github.io"/>
     <link rel="self" href="https://lin-mo-qwq.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>天之高兮，既未有名。</subtitle>
     <logo>https://lin-mo-qwq.github.io/images/avatar.png</logo>
     <icon>https://lin-mo-qwq.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, lin_mo&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[林默的新blog]]></title>
         <id>https://lin-mo-qwq.github.io/post/lin-mo-de-xin-blog/</id>
