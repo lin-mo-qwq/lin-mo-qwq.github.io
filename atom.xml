@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lin-mo-qwq.github.io</id>
     <title>lin_mo&apos;s blog</title>
-    <updated>2020-08-30T23:08:21.653Z</updated>
+    <updated>2021-01-18T01:56:47.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lin-mo-qwq.github.io"/>
     <link rel="self" href="https://lin-mo-qwq.github.io/atom.xml"/>
     <subtitle>天之高兮，既未有名。</subtitle>
     <logo>https://lin-mo-qwq.github.io/images/avatar.png</logo>
     <icon>https://lin-mo-qwq.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, lin_mo&apos;s blog</rights>
+    <rights>All rights reserved 2021, lin_mo&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[林默的新blog]]></title>
         <id>https://lin-mo-qwq.github.io/post/lin-mo-de-xin-blog/</id>
